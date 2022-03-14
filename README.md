@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning C# / JavaScript
 - 📫 How to reach me: arthur.imparato1@gmail.com
 
-<div style="display: inline_block">
+<div align="center">
   <a href="https://github.com/tuta815">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuta815&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuta815&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tuta815&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuta815&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ##
