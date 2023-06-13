@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C# / JavaScript
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: arthur.imparato1@gmail.com
 
 <div align="center">
