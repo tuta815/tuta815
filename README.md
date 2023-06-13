@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: arthur.imparato1@gmail.com
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/tuta815">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuta815&layout=compact&langs_count=7&theme=merko"/>
 </div>
